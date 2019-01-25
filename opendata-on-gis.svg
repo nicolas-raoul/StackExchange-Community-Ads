@@ -14,11 +14,11 @@
    height="1052.3622047"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   inkscape:export-filename="/home/nico/src/2015-stackexchange-community-ads/opendata-on-gis.png"
-   inkscape:export-xdpi="31.290001"
-   inkscape:export-ydpi="31.290001"
-   sodipodi:docname="New document 1">
+   inkscape:version="0.91 r13725"
+   inkscape:export-filename="/home/nico/src/StackExchange-Community-Ads/opendata-on-gis.png"
+   inkscape:export-xdpi="72"
+   inkscape:export-ydpi="72"
+   sodipodi:docname="opendata-on-gis.svg">
   <defs
      id="defs4">
     <radialGradient
@@ -47,15 +47,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.8"
-     inkscape:cx="375"
+     inkscape:cx="118.75"
      inkscape:cy="520"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1855"
-     inkscape:window-height="1056"
-     inkscape:window-x="65"
-     inkscape:window-y="24"
+     inkscape:window-width="2789"
+     inkscape:window-height="1590"
+     inkscape:window-x="91"
+     inkscape:window-y="30"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
@@ -65,7 +65,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -74,26 +74,13 @@
      inkscape:groupmode="layer"
      id="layer1">
     <image
-       y="141.65018"
-       x="50.825424"
-       id="image3208"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANwAAAD6CAIAAABFzb79AAAAA3NCSVQICAjb4U/gAAACs0lEQVR4
-nO3SoQGAQBDAsDv23/kxKAySimSCis5AzM7MOefvDHjs7vV3A7yZkhxTkmNKckxJjinJMSU5piTH
-lOSYkhxTkmNKckxJjinJMSU5piTHlOSYkhxTkmNKckxJjinJMSU5piTHlOSYkhxTkmNKckxJjinJ
-MSU5piTHlOSYkhxTkmNKckxJjinJMSU5piTHlOSYkhxTkmNKckxJjinJMSU5piTHlOSYkhxTkmNK
-ckxJjinJMSU5piTHlOSYkhxTkmNKckxJjinJMSU5piTHlOSYkhxTkmNKckxJjinJMSU5piTHlOSY
-khxTkmNKckxJjinJMSU5piTHlOSYkhxTkmNKckxJjinJMSU5piTHlOSYkhxTkmNKckxJjinJMSU5
-piTHlOSYkhxTkmNKckxJjinJMSU5piTHlOSYkhxTkmNKckxJjinJMSU5piTHlOSYkhxTkmNKckxJ
-jinJMSU5piTHlOSYkhxTkmNKckxJjinJMSU5piTHlOSYkhxTkmNKckxJjinJMSU5piTHlOSYkhxT
-kmNKckxJjinJMSU5piTHlOSYkhxTkmNKckxJjinJMSU5piTHlOSYkhxTkmNKckxJjinJMSU5piTH
-lOSYkhxTkmNKckxJjinJMSU5piTHlOSYkhxTkmNKckxJjinJMSU5piTHlOSYkhxTkmNKckxJjinJ
-MSU5piTHlOSYkhxTkmNKckxJjinJMSU5piTHlOSYkhxTkmNKckxJjinJMSU5piTHlOSYkhxTkmNK
-ckxJjinJMSU5piTHlOSYkhxTkmNKckxJjinJMSU5piTHlOSYkhxTkmNKckxJjinJMSU5piTHlOSY
-khxTkmNKckxJjinJMSU5piTHlOSYkhxTkmNKckxJjinJMSU5piTHlOSYkhxTkmNKckxJjinJMSXA
-lxsfBgTw2Je7agAAAABJRU5ErkJggg==
-"
-       height="718.97186"
-       width="632.69525" />
+       y="184.86218"
+       x="2.5"
+       id="image4208"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAlgAAAH0CAIAAABuMsSDAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA B3RJTUUH4AEQDzEn3+I66QAABf5JREFUeNrt1aEBADAMAkHS/XemojvU5M7gMZ8AAACw07xp6wsA diVwJslxBACbCSEAQggAQggAQggAQggAQggAQggAQggAQggAQggAQggAQggAQggAQggAQggAQggA QggAQggAQggAQggAQggAQggAQggAQggAQggAQggAQggAQggAQggAQggAQggAQggAQggAQggAQggA QggAQggAQggAQggAQggAQggAQggAQggAQggAQggAQggAQggAQggAQggAQggAQggAQgiAEAKAEAKA EAKAEAKAEAKAEAKAEAKAEAKAEAKAEAKAEAKAEAKAEAKAEAKAEAKAEAKAEAKAEAKAEAKAEAKAEAKA EAKAEAKAEAKAEAKAEAKAEAKAEAKAEAKAEAKAEAKAEAKAEAKAEAKAEAKAEAKAEAKAEAKAEAKAEAKA EAKAEAKAEAKAEAKAEAKAEAKAEAKAEAKAEAKAEAKAEAKAEAIghAAghAAghAAghAAghAAghAAghAAg hAAghAAghAAghAAghAAghAAghAAghAAghAAghAAghAAghAAghAAghAAghAAghAAghAAghAAghAAg hAAghAAghAAghAAghAAghAAghAAghAAghAAghAAghAAghAAghAAghAAghAAghAAghAAghAAghAAg hAAghAAghAAghAAghAAghAAIoQsAEEIAEEIAEEIAEEIAEEIAEEIAEEIAEEIAEEIAEEIAEEIAEEIA EEIAEEIAEEIAEEIAEEIAEEIAEEIAEEIAEEIAEEIAEEIAEEIAEEIAEEIAEEIAEEIAEEIAEEIAEEIA EEIAEEIAEEIAEEIAEEIAEEIAEEIAEEIAEEIAEEIAEEIAEEIAEEIAEEIAEEIAEEIAEEIAEEIAEEIA EEIAhBAAhBAAhBAAhBAAhBAAhBAAhBAAhBAAhBAAhBAAhBAAhBAAhBAAhBAAhBAAhBAAhBAAhBAA hBAAhBAAhBAAhBAAhBAAhBAAhBAAhBAAhBAAhBAAhBAAhBAAhBAAhBAAhBAAhBAAhBAAhBAAhBAA hBAAhBAAhBAAhBAAhBAAhBAAhBAAhBAAhBAAhBAAhBAAhBAAhBAAhBAAhBAAIQQAIQQAIQQAIQQA IQQAIQQAIQQAIQQAIQQAIQQAIQQAIQQAIQQAIQQAIQQAIQQAIQQAIQQAIQQAIQQAIQQAIQQAIQQA IQQAIQQAIQQAIQQAIQQAIQQAIQQAIQQAIQQAIQQAIQQAIQQAIQQAIQQAIQQAIQQAIQQAIQQAIQQA IQQAIQQAIQQAIQQAIQQAIQQAIQQAIQQAIQRACAFACAFACAFACAFACAFACAFACAFACAFACAFACAFA CAFACAFACAFACAFACAFACAFACAFACAFACAFACAFACAFACAFACAFACAFACAFACAFACAFACAFACAFA CAFACAFACAFACAFACAFACAFACAFACAFACAFACAFACAFACAFACAFACAFACAFACAFACAFACAFACAFA CAFACAFACAFACAEQQgAQQgAQQgAQQgAQQgAQQgAQQgAQQgAQQgAQQgAQQgAQQgAQQgAQQgAQQgAQ QgAQQgAQQgAQQgAQQgAQQgAQQgAQQgAQQgAQQgAQQgAQQgAQQgAQQgAQQgAQQgAQQgAQQgAQQgAQ QgAQQgAQQgAQQgAQQgAQQgAQQgAQQgAQQgAQQgAQQgAQQgAQQgAQQgAQQgAQQgAQQgCE0AUACCEA CCEACCEACCEACCEACCEACCEACCEACCEACCEACCEACCEACCEACCEACCEACCEACCEACCEACCEACCEA CCEACCEACCEACCEACCEACCEACCEACCEACCEACCEACCEACCEACCEACCEACCEACCEACCEACCEACCEA CCEACCEACCEACCEACCEACCEACCEACCEACCEACCEACCEACCEAQggAQggAQggAQggAQggAQggAQggA QggAQggAQggAQggAQggAQggAQggAQggAQggAQggAQggAQggAQggAQggAQggAQggAQggAQggAQggA QggAQggAQggAAAAA8MMFT38G4JVWTYIAAAAASUVORK5CYII= "
+       preserveAspectRatio="none"
+       height="625"
+       width="750" />
     <g
        transform="matrix(7.4070896,0,0,7.4070896,386.73143,-2758.4663)"
        inkscape:label="Layer 1"
@@ -120,7 +107,7 @@ lxsfBgTw2Je7agAAAABJRU5ErkJggg==
            sodipodi:cx="12.5"
            sodipodi:cy="11.5"
            transform="matrix(0.23201,1.0795,-1.0795,0.23201,22.014,1009.7)"
-           d="m 21.964286,11.5 c 0,5.226981 -4.237305,9.464286 -9.464286,9.464286 -5.2269807,0 -9.4642859,-4.237305 -9.4642859,-9.464286 0,-5.2269807 4.2373052,-9.4642859 9.4642859,-9.4642859 5.226981,0 9.464286,4.2373052 9.464286,9.4642859 z"
+           d="M 21.964286,11.5 A 9.4642859,9.4642859 0 0 1 12.5,20.964286 9.4642859,9.4642859 0 0 1 3.0357141,11.5 9.4642859,9.4642859 0 0 1 12.5,2.0357141 9.4642859,9.4642859 0 0 1 21.964286,11.5 Z"
            sodipodi:type="arc"
            style="fill:url(#radialGradient4424)"
            sodipodi:ry="9.4642859"
@@ -130,19 +117,19 @@ lxsfBgTw2Je7agAAAABJRU5ErkJggg==
     </g>
     <text
        xml:space="preserve"
-       style="font-size:5.15740919px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="79.436241"
-       y="259.31842"
+       style="font-style:normal;font-weight:normal;font-size:5.15740919px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="98.186241"
+       y="283.06842"
        id="text3039"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3041"
-         x="79.436241"
-         y="259.31842"
-         style="font-size:72.20372772px">Need geo data?</tspan></text>
+         x="98.186241"
+         y="283.06842"
+         style="font-size:72.20372772px">Need geodata?</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:5.29928493px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-style:normal;font-weight:normal;font-size:5.29928493px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        x="90.270325"
        y="671.76013"
        id="text3039-2"
@@ -151,11 +138,11 @@ lxsfBgTw2Je7agAAAABJRU5ErkJggg==
          id="tspan3041-7"
          x="90.270325"
          y="671.76013"
-         style="font-size:74.18998718px;font-weight:bold;-inkscape-font-specification:Sans Bold">Open Data</tspan><tspan
+         style="font-weight:bold;font-size:74.18998718px;-inkscape-font-specification:'Sans Bold'">Open Data</tspan><tspan
          sodipodi:role="line"
          x="90.270325"
          y="764.49762"
          style="font-size:74.18998718px"
-         id="tspan3064">StackExchange</tspan></text>
+         id="tspan3064">Stack Exchange</tspan></text>
   </g>
 </svg>
